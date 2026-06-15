@@ -1,10 +1,13 @@
+<div align="center">
+
 # 🎧 Audiophile's Dream
 
 ### A high-fidelity, bit-perfect music player for Android — built for people who hear the difference.
 
 [![Latest release](https://img.shields.io/github/v/release/kaurav99/audiophiles-dream?style=for-the-badge&label=Download&color=E0B567)](https://github.com/kaurav99/audiophiles-dream/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android%2013%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
+[![Platform](https://img.shields.io/badge/Platform-Android%2012%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
+[![License](https://img.shields.io/badge/License-Freeware-blue?style=for-the-badge)](#-license)
 
 **[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
 
@@ -26,33 +29,28 @@ not just what’s playing.
 ## 🌟 Features
 
 ### 🔊 Sound quality first
-
 - **Bit-perfect playback** — bypasses the system mixer where possible for an unaltered signal.
 - **Exclusive USB DAC output** — direct hardware routing with sample-rate matching.
 - **Live signal-path inspector** — see exactly what happens between the file and your ears.
 - **High-res aware** — tracks and displays sample rate, bit depth, bitrate and codec.
 
 ### 🎚️ Tuning & DSP
-
 - Parametric **equalizer** and DSP chain with savable presets.
 - **Headphone-aware** profiles.
 - "Fix My Sound" one-tap optimization.
 
 ### 📚 Library & metadata
-
 - Fast on-device library scan with automatic rescanning.
 - **Online metadata fetch + tagging** (writes tags back into your files).
 - **AI-synced lyrics** with word-level timing.
 - Rich album art with dynamic theming from the artwork.
 
 ### ☁️ Connected
-
 - **SoundCloud** streaming integration.
 - **Last.fm** and **ListenBrainz** scrobbling with configurable thresholds.
 - Listening **statistics & insights**.
 
 ### 🎨 Crafted experience
-
 - **5 selectable launcher icons.**
 - A premium, animated **“Spanda Bindu” cosmic-dance** About screen — tap to sound the Oṃ.
 - Clean Material 3 dark theme with green/red status feedback throughout.
@@ -61,7 +59,7 @@ not just what’s playing.
 
 ## 📲 Install
 
-> Requires **Android 13 (API 33)** or newer.
+> Requires **Android 12 (API 31)** or newer.
 
 1. Open the **[latest release](https://github.com/kaurav99/audiophiles-dream/releases/latest)** and download the `.apk`.
 2. On your phone, tap the downloaded file.
@@ -77,8 +75,8 @@ The APK is **signed**; updates with the same signature install over the top with
 
 > _Add screenshots here — drop images into a `screenshots/` folder and reference them._
 
-|                Now Playing                |                Signal Path                |              Library              |     About (Spanda Bindu)     |
-| :---------------------------------------: | :---------------------------------------: | :-------------------------------: | :---------------------------: |
+| Now Playing | Signal Path | Library | About (Spanda Bindu) |
+|:--:|:--:|:--:|:--:|
 | ![Now Playing](screenshots/now-playing.jpg) | ![Signal Path](screenshots/signal-path.jpg) | ![Library](screenshots/library.jpg) | ![About](screenshots/about.jpg) |
 
 ---
@@ -105,7 +103,27 @@ Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
 
 ## 📜 License
 
-The application is distributed as free software. See the in-app **Settings → About** screen for license details.
+**© 2026 R Kaurav. All rights reserved.**
+
+Audiophile's Dream is **proprietary freeware** — free to download and use for
+personal, non-commercial listening, but it is **not** open source.
+
+You **may**:
+- Install and use the official signed builds on your own devices, at no cost.
+- Share a link to the [Releases page](https://github.com/kaurav99/audiophiles-dream/releases).
+
+You **may not**:
+- Decompile, reverse-engineer, modify, or create derivative works of the app.
+- Redistribute, rehost, or sell the APK or any part of it.
+- Use the name, icons, or assets without written permission.
+
+The software is provided **"as is", without warranty of any kind**, express or
+implied. The author is not liable for any damages arising from its use.
+
+Third-party open-source components are used under their respective licenses
+(e.g. the bundled Apple ALAC decoder under the Apache License 2.0).
+
+For any other use, contact the author at **ralkau@proton.me**.
 
 ---
 
