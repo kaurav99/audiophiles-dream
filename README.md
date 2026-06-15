@@ -5,7 +5,6 @@
 [![Latest release](https://img.shields.io/github/v/release/kaurav99/audiophiles-dream?style=for-the-badge&label=Download&color=E0B567)](https://github.com/kaurav99/audiophiles-dream/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android%2013%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
-[![License](https://img.shields.io/badge/License-Open%20Source-blue?style=for-the-badge)](#-license)
 
 **[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
 
