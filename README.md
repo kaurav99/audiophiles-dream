@@ -8,6 +8,7 @@
 [![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android%2012%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
 [![License](https://img.shields.io/badge/License-Freeware-blue?style=for-the-badge)](#-license)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kaurav99)
 
 **[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
 
@@ -98,6 +99,18 @@ Audio/storage access is used solely to scan and play your local library. Nothing
 
 **Will it work with my USB DAC?**
 Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
+
+---
+
+## ❤️ Sponsor
+
+Audiophile's Dream is free to use. If it earns a place in your listening setup,
+you can support its continued development:
+
+**[❤ Sponsor on GitHub](https://github.com/sponsors/kaurav99)**
+
+Every contribution helps cover development time, test hardware (DACs), and
+hosting — thank you!
 
 ---
 
