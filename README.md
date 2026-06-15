@@ -80,7 +80,7 @@ The APK is **signed**; updates with the same signature install over the top with
 
 |                Now Playing                |                Signal Path                |              Library              |     About (Spanda Bindu)     |
 | :---------------------------------------: | :---------------------------------------: | :-------------------------------: | :---------------------------: |
-| ![Now Playing](screenshots/now-playing.png) | ![Signal Path](screenshots/signal-path.png) | ![Library](screenshots/library.png) | ![About](screenshots/about.png) |
+| ![Now Playing](screenshots/now-playing.jpg) | ![Signal Path](screenshots/signal-path.jpg) | ![Library](screenshots/library.jpg) | ![About](screenshots/about.jpg) |
 
 ---
 
