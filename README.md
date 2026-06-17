@@ -73,7 +73,6 @@ The APK is **signed**; updates with the same signature install over the top with
 
 ## 📸 Screenshots
 
-> _Add screenshots here — drop images into a `screenshots/` folder and reference them._
 
 | Now Playing | Signal Path | Library | About (Spanda Bindu) |
 |:--:|:--:|:--:|:--:|
