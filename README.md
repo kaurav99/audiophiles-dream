@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎧 Audiophile's Dream
 
 ### A high-fidelity, bit-perfect music player for Android — built for people who hear the difference.
@@ -74,9 +72,18 @@ The APK is **signed**; updates with the same signature install over the top with
 ## 📸 Screenshots
 
 
-| Now Playing | Signal Path | Library | About (Spanda Bindu) |
-|:--:|:--:|:--:|:--:|
-| ![Now Playing](screenshots/now-playing.jpg) | ![Signal Path](screenshots/signal-path.jpg) | ![Library](screenshots/library.jpg) | ![About](screenshots/about.jpg) |
+|     Playing      |      Cloud       |   Spectrogram    |    Equalizer     |
+| :--------------: | :--------------: | :--------------: | :--------------: |
+| <img src="https://github.com/user-attachments/assets/415a21b7-a582-4233-ae43-7d2c49bbf4c9" width="180"> | <img src="https://github.com/user-attachments/assets/b915e856-8e29-4620-8171-17f7dfa29dd7" width="180"> | <img src="https://github.com/user-attachments/assets/14731fdd-8f66-441f-9f0d-8c441610557d" width="180"> | <img src="https://github.com/user-attachments/assets/4ac4c7ca-8fcf-432a-9114-e772b1b8f92c" width="180"> |
+
+|     Analyze      |      Lyrics      |      Stats       |     Settings     |
+| :--------------: | :--------------: | :--------------: | :--------------: |
+| <img src="https://github.com/user-attachments/assets/6b8dc4e0-176c-4666-8a74-e4ccf99735e0" width="180"> | <img src="https://github.com/user-attachments/assets/f6c6a447-fdc4-4e81-9ded-8d56e42467af" width="180"> | <img src="https://github.com/user-attachments/assets/796356ec-80d6-41b9-b526-af96acfa9170" width="180"> | <img src="https://github.com/user-attachments/assets/ebb16f08-f321-4f78-87e3-f74c02b879e7" width="180"> |
+
+|      About       |
+| :--------------: |
+| <img src="https://github.com/user-attachments/assets/32915c40-47ff-4b65-851f-be55753b36eb" width="180"> |
+
 
 ---
 
