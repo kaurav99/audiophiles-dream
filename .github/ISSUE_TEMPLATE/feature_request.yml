@@ -1,0 +1,74 @@
+name: Feature Request
+description: Suggest a new feature or improvement for Audiophile's Dream
+labels: ["enhancement"]
+body:
+
+  - type: input
+    id: summary
+    attributes:
+      label: Feature summary
+      description: One-line description of what you want
+      placeholder: "e.g. Add support for gapless playback"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the use case or pain point
+      placeholder: "e.g. When listening to live albums, the gap between tracks breaks the flow..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How do you imagine this working in the app?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area of the app
+      options:
+        - Audio playback / signal path
+        - USB DAC / bit-perfect
+        - DSD support
+        - Library / scanning
+        - Streaming (SoundCloud / Dropbox / WebDAV / DLNA)
+        - UPnP sharing
+        - Lyrics
+        - Equalizer / DSP
+        - UI / Now Playing screen
+        - Widgets
+        - Scrobbling
+        - Settings
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this to you?
+      options:
+        - Nice to have
+        - Important
+        - Critical — app is unusable without it
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds you currently use, or other apps that do this well
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Screenshots, links, or anything else relevant
