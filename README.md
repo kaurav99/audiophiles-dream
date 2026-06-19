@@ -90,7 +90,7 @@ The APK is **signed**; updates with the same signature install over the top with
 ## 🗒️ Releases
 
 All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases/latest)** page,
-with notes describing what changed. The current line is **`0.2.9 · Pravāha`**.
+with notes describing what changed. The current line is **`0.3.0 · Saṅgama`**.
 
 ---
 
