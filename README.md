@@ -4,7 +4,8 @@
 
 [![Latest release](https://img.shields.io/github/v/release/kaurav99/audiophiles-dream?style=for-the-badge&label=Download&color=E0B567)](https://github.com/kaurav99/audiophiles-dream/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/kaurav99/audiophiles-dream/total?style=for-the-badge&color=6FB7B0)](https://github.com/kaurav99/audiophiles-dream/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android%2012%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
+[![Platform](https://img.shields.io/badge/Platform-Android%2011%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+urRX_WELImQ0MjU1)
 [![License](https://img.shields.io/badge/License-Freeware-blue?style=for-the-badge)](#-license)
 
 **[⬇️ Download the latest APK](https://github.com/kaurav99/audiophiles-dream/releases/latest)**
@@ -57,7 +58,7 @@ not just what’s playing.
 
 ## 📲 Install
 
-> Requires **Android 12 (API 31)** or newer.
+> Requires **Android 11 (API 30)** or newer.
 
 1. Open the **[latest release](https://github.com/kaurav99/audiophiles-dream/releases/latest)** and download the `.apk`.
 2. On your phone, tap the downloaded file.
@@ -90,7 +91,7 @@ The APK is **signed**; updates with the same signature install over the top with
 ## 🗒️ Releases
 
 All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases/latest)** page,
-with notes describing what changed. The current line is **`0.4.2 · Vistāra`**.
+with notes describing what changed. The current line is **`0.3.0 · Saṅgama`**.
 
 ---
 
@@ -108,7 +109,15 @@ Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
 ---
 
 
-## 📜 License
+##   Community
+
+Join the **[Audiophile's Dream Telegram group](https://t.me/+urRX_WELImQ0MjU1)** for release
+announcements, early builds, help and feedback — and to share what your DAC is doing.
+
+---
+
+
+##  📜 License
 
 **© 2026 R Kaurav. All rights reserved.**
 
