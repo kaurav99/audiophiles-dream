@@ -1,4 +1,4 @@
-# 🎧 Audiophile's Dream
+# 🎧 Resonāda
 
 ### A high-fidelity, bit-perfect music player for Android — built for people who hear the difference.
 
@@ -16,7 +16,7 @@
 
 ## ✨ Overview
 
-**Audiophile's Dream** is a no-compromise local music player for Android that treats your
+**Resonāda** is a no-compromise local music player for Android that treats your
 audio chain with the respect it deserves. From **bit-perfect USB DAC output** to a real-time
 **signal-path inspector**, it’s designed for listeners who care about *how* their music sounds —
 not just what’s playing.
@@ -63,7 +63,7 @@ not just what’s playing.
 1. Open the **[latest release](https://github.com/kaurav99/audiophiles-dream/releases/latest)** and download the `.apk`.
 2. On your phone, tap the downloaded file.
 3. If prompted, allow **“Install unknown apps”** for your browser/file manager.
-4. Tap **Install**, then open **Audiophile's Dream**.
+4. Tap **Install**, then open **Resonāda**.
 5. Grant audio/storage access so it can scan your library.
 
 The APK is **signed**; updates with the same signature install over the top without data loss.
@@ -91,7 +91,7 @@ The APK is **signed**; updates with the same signature install over the top with
 ## 🗒️ Releases
 
 All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases/latest)** page,
-with notes describing what changed.
+with notes describing what changed. The current line is **`Resonāda — 0.5.5 · Narsimha`**.
 
 ---
 
@@ -111,7 +111,7 @@ Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
 
 ##   Community
 
-Join the **[Audiophile's Dream Telegram group](https://t.me/+urRX_WELImQ0MjU1)** for release
+Join the **[Resonāda Telegram group](https://t.me/+urRX_WELImQ0MjU1)** for release
 announcements, early builds, help and feedback — and to share what your DAC is doing.
 
 ---
@@ -121,7 +121,7 @@ announcements, early builds, help and feedback — and to share what your DAC is
 
 **© 2026 R Kaurav. All rights reserved.**
 
-Audiophile's Dream is **proprietary freeware** — free to download and use for
+Resonāda is **proprietary freeware** — free to download and use for
 personal, non-commercial listening, but it is **not** open source.
 
 You **may**:
@@ -147,7 +147,7 @@ For any other use, contact the author at **ralkau@proton.me**.
 
 <div align="center">
 
-**Audiophile's Dream** — _the vibrating point of origin._
+**Resonāda** — _the vibrating point of origin._
 
 Made with care by **R Kaurav**.
 
