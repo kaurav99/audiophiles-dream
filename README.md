@@ -17,7 +17,7 @@
 ## ✨ Overview
 
 **Resonāda** is a no-compromise local music player for Android that treats your
-audio chain with the respect it deserves. From **bit-perfect USB DAC output** to a real-time
+audio chain with the respect it deserves. From **Bit Xact USB DAC output** to a real-time
 **signal-path inspector**, it’s designed for listeners who care about *how* their music sounds —
 not just what’s playing.
 
@@ -28,29 +28,36 @@ not just what’s playing.
 ## 🌟 Features
 
 ### 🔊 Sound quality first
-- **Bit-perfect playback** — bypasses the system mixer where possible for an unaltered signal.
-- **Exclusive USB DAC output** — direct hardware routing with sample-rate matching.
-- **Live signal-path inspector** — see exactly what happens between the file and your ears.
-- **High-res aware** — tracks and displays sample rate, bit depth, bitrate and codec.
+- **Bit Xact output** — bit-for-bit playback that bypasses the system mixer for an unaltered signal, with a live badge that tells the truth about the whole path (DSP, software volume and DAC clock).
+- **Exclusive USB DAC output** — a native USB Audio driver streams straight to your DAC, bit-for-bit, with sample-rate matching. Lossless *and* lossy formats (FLAC, ALAC, WAV, AIFF, MP3, AAC/M4A, Ogg/Vorbis, Opus) all take the native path.
+- **Native DSD / DoP** — DSF and DFF up to your DAC's limits.
+- **Live signal-path inspector** — see exactly what happens between the file and your ears, including real-time USB stream health.
+- **High-res aware** — reads and displays sample rate, bit depth, bitrate and codec straight from the file.
 
-### 🎚️ Tuning & DSP
-- Parametric **equalizer** and DSP chain with savable presets.
-- **Headphone-aware** profiles.
-- "Fix My Sound" one-tap optimization.
+### 🎚️ Universe DSP
+- **Up to 32-band parametric EQ** with true RBJ filters and click-free coefficient ramping.
+- **Convolution** (impulse-response) for headphone & room correction, **crossfeed**, and **compressor / limiter** dynamics.
+- **AutoEQ, built in** — import oratory1990 / Crinacle profiles, or search the headphone-correction catalogue in-app and apply with one tap.
+- **Colourful response curve** and a real-time spectrum analyser.
+
+### 📊 Insight
+- **Fidelity Analysis & scoring** — TT DR dynamic range, True Peak (dBTP) and integrated loudness (LUFS), graded Poor → Reference.
+- **BPM & musical-key detection** for any track, including DSD.
 
 ### 📚 Library & metadata
-- Fast on-device library scan with automatic rescanning.
-- **Online metadata fetch + tagging** (writes tags back into your files).
-- **AI-synced lyrics** with word-level timing.
-- Rich album art with dynamic theming from the artwork.
+- Fast **incremental** on-device scan that updates only what changed, with SD-card and multi-folder support.
+- **In-app folder browser** to add any folder — including Music — without fighting Android's system picker.
+- **Online metadata + cover art** — fetch and write tags back, or embed / save a folder cover every player reads.
+- **Synced lyrics** with word-level timing, on screen and in the playback notification.
+- **Update on launch** — one-tap updates for side-loaded installs.
 
 ### ☁️ Connected
-- **SoundCloud** streaming integration.
-- **Last.fm** and **ListenBrainz** scrobbling with configurable thresholds.
-- Listening **statistics & insights**.
+- Stream from **WebDAV**, **Dropbox**, **DLNA / UPnP** servers and **SoundCloud**.
+- Act as a **UPnP / DLNA renderer and media server** on your network.
+- **Last.fm** and **ListenBrainz** scrobbling with configurable thresholds, plus listening **statistics & insights**.
 
 ### 🎨 Crafted experience
-- **5 selectable launcher icons.**
+- **5 selectable launcher icons** whose gradient flows into the in-app accents.
 - A premium, animated **“Spanda Bindu” cosmic-dance** About screen — tap to sound the Oṃ.
 - Clean Material 3 dark theme with green/red status feedback throughout.
 
@@ -91,7 +98,7 @@ The APK is **signed**; updates with the same signature install over the top with
 ## 🗒️ Releases
 
 All builds are published on the **[Releases](https://github.com/kaurav99/audiophiles-dream/releases/latest)** page,
-with notes describing what changed. The current line is **`Resonāda — 0.5.5 · Narsimha`**.
+with notes describing what changed. The current line is **`1.0.0 · Purna · whole`**.
 
 ---
 
@@ -109,7 +116,7 @@ Most UAC-compliant USB DACs are supported for exclusive, bit-perfect output.
 ---
 
 
-##   Community
+## 💬 Community
 
 Join the **[Resonāda Telegram group](https://t.me/+urRX_WELImQ0MjU1)** for release
 announcements, early builds, help and feedback — and to share what your DAC is doing.
@@ -117,7 +124,7 @@ announcements, early builds, help and feedback — and to share what your DAC is
 ---
 
 
-##  📜 License
+## 📜 License
 
 **© 2026 R Kaurav. All rights reserved.**
 
